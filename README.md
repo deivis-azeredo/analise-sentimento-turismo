@@ -21,7 +21,7 @@ Este repositório apresenta a solução para o desafio de Engenharia de Prompt, 
   * `data_comentario` (Data da avaliação)
   * `texto_comentario` (Feedback em texto livre)
 * **Critérios de análise:** Classificação por **Tema** (Paisagismo, Infraestrutura, Preço, Atendimento, Clima/Acesso), **Sentimento** (Positivo, Neutro, Negativo) e **Urgência**.
-
+Veja :![Evidência do Banco de Dados no Supabase](./print-supabase.png)
 ---
 
 ## 🚀 3. Prompt Final (O Comando para a IA)
